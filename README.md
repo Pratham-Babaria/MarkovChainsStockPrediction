@@ -1,0 +1,2 @@
+# MarkovChainsStockPrediction
+This project uses Markov Chains to predict the behavior of stocks in the stock market. First a model of a particular stock's (or stock index's) behavior based on past performance was created. Then, that model was used to predict what the stock's price would do (go up a little/lot, go down a little/lot) for the next few days in the future. *NOTE*: Please do not use as a tool for your investment decisions. This is merely a tool demonstrating a fun use case of Markov Chains.
